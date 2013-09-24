@@ -1,0 +1,4 @@
+--color
+--profile
+-f doc
+-f Fuubar -f html -o specs.html
